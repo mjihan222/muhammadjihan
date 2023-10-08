@@ -1,0 +1,31 @@
+.container {
+  margin: 10mm;
+  padding: 10mm;
+  background-color: lightslategrey;
+  border-radius: 10mm;
+  color: white;
+}
+
+.judul {
+  font-weight: 900;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  border-radius: 5mm;
+}
+
+.profile img {
+  width: 150px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+h1 {
+  font-size: 16px;
+}
+
+.motor {
+  background-color: blueviolet;
+}
